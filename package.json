@@ -1,0 +1,26 @@
+{
+  "name": "cse341-code-student",
+  "version": "1.0.0",
+  "description": "My first server is about to be created",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byui-cse/cse341-code-student.git"
+  },
+  "author": "Jide Ojo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byui-cse/cse341-code-student/issues"
+  },
+  "homepage": "https://github.com/byui-cse/cse341-code-student#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
